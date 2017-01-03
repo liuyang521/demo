@@ -88,7 +88,8 @@ public class MorraDemo {
 		System.out.println("欢迎来到猜拳小游戏！");
 		System.out.print("请输入用户名：");
 		userName = new Scanner(System.in).next();	
-			morra();				
+			morra();		
+			System.out.println();
 			
 
 	}
